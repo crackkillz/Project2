@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":982.8,"scrollY":548.4},
+{"id":2,"expanded":true,"name":"World Map","order":2,"parentId":0,"scrollX":973.1999999999999,"scrollY":650.4},
+{"id":3,"expanded":true,"name":"Town 1","order":3,"parentId":2,"scrollX":982.8,"scrollY":548.4},
+{"id":4,"expanded":false,"name":"Panda's House","order":4,"parentId":3,"scrollX":982.8,"scrollY":548.4},
+{"id":5,"expanded":false,"name":"Inn","order":5,"parentId":3,"scrollX":982.8,"scrollY":548.4},
+{"id":6,"expanded":false,"name":"Armory","order":7,"parentId":7,"scrollX":982.8,"scrollY":548.4},
+{"id":7,"expanded":false,"name":"Armory2","order":6,"parentId":3,"scrollX":832,"scrollY":640},
+{"id":8,"expanded":true,"name":"Potions Shop","order":8,"parentId":3,"scrollX":832,"scrollY":640},
+{"id":9,"expanded":false,"name":"PotionCeller","order":9,"parentId":8,"scrollX":832,"scrollY":640},
+{"id":10,"expanded":false,"name":"PotionCeller2","order":10,"parentId":8,"scrollX":982.8,"scrollY":548.4}
+]
